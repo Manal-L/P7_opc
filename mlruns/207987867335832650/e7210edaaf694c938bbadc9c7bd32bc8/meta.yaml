@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/e7210edaaf694c938bbadc9c7bd32bc8/artifacts
+end_time: 1729012102591
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: e7210edaaf694c938bbadc9c7bd32bc8
+run_name: orderly-crane-457
+run_uuid: e7210edaaf694c938bbadc9c7bd32bc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729012092589
+status: 3
+tags: []
+user_id: HP

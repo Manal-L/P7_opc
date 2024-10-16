@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/b8e48ec905624e8bb02baa62eb7bab78/artifacts
+end_time: 1729006258495
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: b8e48ec905624e8bb02baa62eb7bab78
+run_name: stylish-grub-282
+run_uuid: b8e48ec905624e8bb02baa62eb7bab78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729006251721
+status: 3
+tags: []
+user_id: HP

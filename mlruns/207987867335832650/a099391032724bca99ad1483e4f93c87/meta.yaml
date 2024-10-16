@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/a099391032724bca99ad1483e4f93c87/artifacts
+end_time: 1729001139581
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: a099391032724bca99ad1483e4f93c87
+run_name: casual-perch-891
+run_uuid: a099391032724bca99ad1483e4f93c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729001130356
+status: 3
+tags: []
+user_id: HP

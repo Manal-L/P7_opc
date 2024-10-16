@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/83739a58a719450b8a079ed2d53c3c9e/artifacts
+end_time: 1729005295036
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 83739a58a719450b8a079ed2d53c3c9e
+run_name: sneaky-ape-447
+run_uuid: 83739a58a719450b8a079ed2d53c3c9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729005287302
+status: 3
+tags: []
+user_id: HP

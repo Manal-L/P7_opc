@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/ece9f915488547ee86e0c7811f3d1351/artifacts
+end_time: 1729024136642
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: ece9f915488547ee86e0c7811f3d1351
+run_name: fortunate-rat-187
+run_uuid: ece9f915488547ee86e0c7811f3d1351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729024123463
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/19481fc7100d460cbaca305e8aee14bc/artifacts
+end_time: 1728994965854
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 19481fc7100d460cbaca305e8aee14bc
+run_name: nervous-frog-602
+run_uuid: 19481fc7100d460cbaca305e8aee14bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728994965590
+status: 4
+tags: []
+user_id: HP

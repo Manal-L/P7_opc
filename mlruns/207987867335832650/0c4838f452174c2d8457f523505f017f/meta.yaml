@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/0c4838f452174c2d8457f523505f017f/artifacts
+end_time: 1729006783377
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 0c4838f452174c2d8457f523505f017f
+run_name: handsome-frog-631
+run_uuid: 0c4838f452174c2d8457f523505f017f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729006776880
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/9c48c7ad44064c8eb9c0ec82064af835/artifacts
+end_time: 1729013821635
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 9c48c7ad44064c8eb9c0ec82064af835
+run_name: polite-fish-585
+run_uuid: 9c48c7ad44064c8eb9c0ec82064af835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729013811648
+status: 3
+tags: []
+user_id: HP

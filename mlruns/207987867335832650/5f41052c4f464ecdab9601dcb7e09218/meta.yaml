@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/5f41052c4f464ecdab9601dcb7e09218/artifacts
+end_time: 1729003705182
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 5f41052c4f464ecdab9601dcb7e09218
+run_name: bald-lamb-179
+run_uuid: 5f41052c4f464ecdab9601dcb7e09218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729003697997
+status: 3
+tags: []
+user_id: HP

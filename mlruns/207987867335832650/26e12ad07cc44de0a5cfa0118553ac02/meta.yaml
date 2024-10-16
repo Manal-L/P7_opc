@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/26e12ad07cc44de0a5cfa0118553ac02/artifacts
+end_time: 1729001832926
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 26e12ad07cc44de0a5cfa0118553ac02
+run_name: salty-chimp-536
+run_uuid: 26e12ad07cc44de0a5cfa0118553ac02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729001826089
+status: 3
+tags: []
+user_id: HP

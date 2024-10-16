@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/341331ef98b745129aa4480a0a9ae402/artifacts
+end_time: 1729003971661
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 341331ef98b745129aa4480a0a9ae402
+run_name: gifted-rook-992
+run_uuid: 341331ef98b745129aa4480a0a9ae402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729003962059
+status: 3
+tags: []
+user_id: HP

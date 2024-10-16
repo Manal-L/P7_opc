@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/0e1ce0881f364331825f85f712c38182/artifacts
+end_time: 1729019939604
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 0e1ce0881f364331825f85f712c38182
+run_name: upbeat-conch-691
+run_uuid: 0e1ce0881f364331825f85f712c38182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729019930197
+status: 3
+tags: []
+user_id: HP

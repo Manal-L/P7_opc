@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/e159680c70f54c0eaddd0eb07add0917/artifacts
+end_time: 1729014940348
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: e159680c70f54c0eaddd0eb07add0917
+run_name: lyrical-pig-240
+run_uuid: e159680c70f54c0eaddd0eb07add0917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729014930375
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/c5c284af13c947698f86f86e579a0496/artifacts
+end_time: 1729005895447
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: c5c284af13c947698f86f86e579a0496
+run_name: lyrical-carp-560
+run_uuid: c5c284af13c947698f86f86e579a0496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729005887999
+status: 3
+tags: []
+user_id: HP

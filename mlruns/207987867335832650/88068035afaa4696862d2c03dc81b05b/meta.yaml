@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/88068035afaa4696862d2c03dc81b05b/artifacts
+end_time: 1729010663698
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 88068035afaa4696862d2c03dc81b05b
+run_name: smiling-jay-874
+run_uuid: 88068035afaa4696862d2c03dc81b05b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729010656841
+status: 3
+tags: []
+user_id: HP

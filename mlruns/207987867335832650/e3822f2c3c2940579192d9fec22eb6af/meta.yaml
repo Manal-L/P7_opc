@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/e3822f2c3c2940579192d9fec22eb6af/artifacts
+end_time: 1729006495598
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: e3822f2c3c2940579192d9fec22eb6af
+run_name: bald-finch-946
+run_uuid: e3822f2c3c2940579192d9fec22eb6af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729006487281
+status: 3
+tags: []
+user_id: HP

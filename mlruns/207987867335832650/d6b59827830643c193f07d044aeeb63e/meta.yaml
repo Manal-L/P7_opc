@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/d6b59827830643c193f07d044aeeb63e/artifacts
+end_time: 1729021418031
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: d6b59827830643c193f07d044aeeb63e
+run_name: tasteful-sponge-378
+run_uuid: d6b59827830643c193f07d044aeeb63e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729021406052
+status: 3
+tags: []
+user_id: HP

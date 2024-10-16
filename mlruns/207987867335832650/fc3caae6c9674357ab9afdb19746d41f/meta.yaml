@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/fc3caae6c9674357ab9afdb19746d41f/artifacts
+end_time: 1729009487784
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: fc3caae6c9674357ab9afdb19746d41f
+run_name: popular-hare-811
+run_uuid: fc3caae6c9674357ab9afdb19746d41f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729009478321
+status: 3
+tags: []
+user_id: HP

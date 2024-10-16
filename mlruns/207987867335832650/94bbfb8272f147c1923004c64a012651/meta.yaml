@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/94bbfb8272f147c1923004c64a012651/artifacts
+end_time: 1729018250664
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 94bbfb8272f147c1923004c64a012651
+run_name: luminous-flea-206
+run_uuid: 94bbfb8272f147c1923004c64a012651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729018241257
+status: 3
+tags: []
+user_id: HP

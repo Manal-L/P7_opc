@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/3b2e16c56a0a4b12845cbcd26f15115b/artifacts
+end_time: 1729018823371
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 3b2e16c56a0a4b12845cbcd26f15115b
+run_name: righteous-elk-282
+run_uuid: 3b2e16c56a0a4b12845cbcd26f15115b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729018813535
+status: 3
+tags: []
+user_id: HP

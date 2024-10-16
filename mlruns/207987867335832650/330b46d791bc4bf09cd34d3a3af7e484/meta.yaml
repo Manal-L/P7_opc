@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/330b46d791bc4bf09cd34d3a3af7e484/artifacts
+end_time: 1729000361199
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 330b46d791bc4bf09cd34d3a3af7e484
+run_name: indecisive-dove-460
+run_uuid: 330b46d791bc4bf09cd34d3a3af7e484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729000354442
+status: 3
+tags: []
+user_id: HP

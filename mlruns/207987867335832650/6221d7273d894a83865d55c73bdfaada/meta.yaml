@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/6221d7273d894a83865d55c73bdfaada/artifacts
+end_time: 1729011281388
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 6221d7273d894a83865d55c73bdfaada
+run_name: magnificent-asp-545
+run_uuid: 6221d7273d894a83865d55c73bdfaada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729011268755
+status: 3
+tags: []
+user_id: HP

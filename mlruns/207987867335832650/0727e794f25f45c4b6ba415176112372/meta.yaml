@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/0727e794f25f45c4b6ba415176112372/artifacts
+end_time: 1729007305446
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 0727e794f25f45c4b6ba415176112372
+run_name: unleashed-bear-10
+run_uuid: 0727e794f25f45c4b6ba415176112372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729007297427
+status: 3
+tags: []
+user_id: HP

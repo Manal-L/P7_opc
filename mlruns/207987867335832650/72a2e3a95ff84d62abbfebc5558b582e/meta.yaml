@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/72a2e3a95ff84d62abbfebc5558b582e/artifacts
+end_time: 1729016968662
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 72a2e3a95ff84d62abbfebc5558b582e
+run_name: unique-stoat-214
+run_uuid: 72a2e3a95ff84d62abbfebc5558b582e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729016959635
+status: 3
+tags: []
+user_id: HP

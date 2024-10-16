@@ -1,2 +1,8 @@
-extracted_files/
+# Ignorer les fichiers CSV spécifiques
+df_classification.csv
+df_classification_imputed.csv
+df_clean.csv
+df_sample.csv
+
+# Ignorer le répertoire virtuel
 venv/

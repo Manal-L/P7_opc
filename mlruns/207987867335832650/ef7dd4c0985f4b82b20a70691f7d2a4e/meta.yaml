@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/ef7dd4c0985f4b82b20a70691f7d2a4e/artifacts
+end_time: 1729015891031
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: ef7dd4c0985f4b82b20a70691f7d2a4e
+run_name: auspicious-rat-19
+run_uuid: ef7dd4c0985f4b82b20a70691f7d2a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729015881731
+status: 3
+tags: []
+user_id: HP

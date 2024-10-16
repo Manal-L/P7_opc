@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/18034b2cfa0245fba42e62c21d2fc1c1/artifacts
+end_time: 1729011754588
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 18034b2cfa0245fba42e62c21d2fc1c1
+run_name: melodic-hound-939
+run_uuid: 18034b2cfa0245fba42e62c21d2fc1c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729011745049
+status: 3
+tags: []
+user_id: HP

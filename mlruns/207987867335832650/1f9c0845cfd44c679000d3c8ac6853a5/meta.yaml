@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/1f9c0845cfd44c679000d3c8ac6853a5/artifacts
+end_time: 1729003240561
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 1f9c0845cfd44c679000d3c8ac6853a5
+run_name: magnificent-swan-336
+run_uuid: 1f9c0845cfd44c679000d3c8ac6853a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729003231121
+status: 3
+tags: []
+user_id: HP

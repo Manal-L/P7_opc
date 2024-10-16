@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/8dbc489be57a45a3ac2e5a4e5cb69ffd/artifacts
+end_time: 1729016463906
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 8dbc489be57a45a3ac2e5a4e5cb69ffd
+run_name: abrasive-penguin-561
+run_uuid: 8dbc489be57a45a3ac2e5a4e5cb69ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729016454698
+status: 3
+tags: []
+user_id: HP
