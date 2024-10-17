@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/5cb00e3519f449f7a6bc95b154ad7ab2/artifacts
+end_time: 1729151658467
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 5cb00e3519f449f7a6bc95b154ad7ab2
+run_name: enthused-stork-233
+run_uuid: 5cb00e3519f449f7a6bc95b154ad7ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729151653188
+status: 3
+tags: []
+user_id: HP

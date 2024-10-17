@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/e0e41a807eec4cfe97694e3b8277a745/artifacts
+end_time: 1729155554184
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: e0e41a807eec4cfe97694e3b8277a745
+run_name: resilient-kit-696
+run_uuid: e0e41a807eec4cfe97694e3b8277a745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729155545936
+status: 3
+tags: []
+user_id: HP

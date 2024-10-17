@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/4e797bfe8c1b471dac6da36d7186bede/artifacts
+end_time: 1729155784634
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 4e797bfe8c1b471dac6da36d7186bede
+run_name: aged-moose-705
+run_uuid: 4e797bfe8c1b471dac6da36d7186bede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729155779373
+status: 3
+tags: []
+user_id: HP

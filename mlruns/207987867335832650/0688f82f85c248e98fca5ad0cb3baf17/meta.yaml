@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/0688f82f85c248e98fca5ad0cb3baf17/artifacts
+end_time: 1729165569916
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: 0688f82f85c248e98fca5ad0cb3baf17
+run_name: painted-vole-120
+run_uuid: 0688f82f85c248e98fca5ad0cb3baf17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729165564624
+status: 3
+tags: []
+user_id: HP

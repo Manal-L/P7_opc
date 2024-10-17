@@ -1,0 +1,60 @@
+                               Données Complètes (df)
+                                              |
+                        __________________________________________________
+                       |                                                  |
+              90% Données pour Entraînement                        10% Données pour Test Final
+             (Entraînement initial, validation                      (Ne jamais utiliser pendant
+             croisée, entraînement final)                          l'entraînement ou la validation)
+                       |
+                       |
+         ------------------------------
+        |                              |
+   Validation Croisée            Entraînement Final
+   + SMOTE (sur les données        + SMOTE (sur 90% des données
+    d'entraînement de chaque pli)   pour construire le modèle final)
+        |                              |
+        |                              |
+ Optimisation d'Hyperparamètres         |
+        |                              |
+   Sélection des Meilleurs        Modèle Final Entraîné
+       Hyperparamètres                      |
+                                            -----------------------------------------
+                                                                                    |
+                                                                           Évaluation sur les 10% de
+                                                                               Données de Test Final
+                                
+                                                                    Données Client API (Prédictions via API)
+                                                                                     |
+                                                                       Envoi des Données au Modèle via API
+                                                                                     |
+                                                                     Prédictions et Explicabilité (SHAP)
+
+
+Explications détaillées :
+Données Complètes (df) :
+
+Tu as un seul DataFrame avec toutes les données sans valeurs manquantes.
+Ce DataFrame est divisé en 90% pour l'entraînement et 10% pour le test final.
+
+Entraînement et validation croisée avec SMOTE :
+Tu utilises les 90% des données pour l'entraînement.
+Pendant la validation croisée, tu appliques SMOTE uniquement sur les données d'entraînement de chaque pli, afin de gérer le déséquilibre des 
+classes.
+Cette étape inclut aussi l'optimisation des hyperparamètres.
+
+Entraînement final avec SMOTE :
+Une fois les meilleurs hyperparamètres trouvés grâce à la validation croisée, tu entraînes le modèle final sur l'ensemble des 90% de données 
+d'entraînement, avec SMOTE appliqué.
+
+Évaluation sur les 10% restants :
+Les 10% des données, réservées au test final, sont utilisées pour évaluer les performances du modèle final. SMOTE ne doit pas être appliqué 
+sur ces données.
+
+API :
+Les données clients (par exemple, de nouvelles données envoyées à l'API) peuvent être testées via ton modèle final. Cela se fait en envoyant 
+les données à l'API pour obtenir des prédictions et des valeurs d'explicabilité (par exemple via SHAP).
+
+En résumé :
+90% des données pour l'entraînement, incluant SMOTE pendant la validation croisée.
+10% des données pour l'évaluation finale, sans SMOTE.
+Les nouvelles données client (pour l'API) seront envoyées à ton modèle final, qui pourra prédire et expliquer les résultats.

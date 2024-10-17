@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prédiction Client</title>
+</head>
+<body>
+    <h1>Prédiction de Risque Client</h1>
+    <form action="/" method="post">
+        <label for="sk_id_curr">Sélectionnez un SK_ID_CURR :</label>
+        <select name="sk_id_curr" id="sk_id_curr">
+            {% for id in clients %}
+                <option value="{{ id }}">{{ id }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Prédire</button>
+    </form>
+
+    {% if prediction %}
+        <h2>Résultat de la Prédiction pour SK_ID_CURR {{ prediction.sk_id_curr }}</h2>
+        <p>Probabilité de défaut : {{ prediction.proba }}%</p>
+        <h3>Détails des Caractéristiques :</h3>
+        <ul>
+            {% for name, value in prediction.details.items() %}
+                <li>{{ name }} : {{ value }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
+

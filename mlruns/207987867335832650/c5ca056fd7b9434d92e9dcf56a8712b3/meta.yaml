@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/c5ca056fd7b9434d92e9dcf56a8712b3/artifacts
+end_time: 1729165829677
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: c5ca056fd7b9434d92e9dcf56a8712b3
+run_name: colorful-whale-130
+run_uuid: c5ca056fd7b9434d92e9dcf56a8712b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729165824427
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/a80ebfb6a0d44580899ffec170ccbd6c/artifacts
+end_time: 1729161088378
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: a80ebfb6a0d44580899ffec170ccbd6c
+run_name: shivering-cod-436
+run_uuid: a80ebfb6a0d44580899ffec170ccbd6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729161083199
+status: 3
+tags: []
+user_id: HP

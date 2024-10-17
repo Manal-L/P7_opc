@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/bd61588ae14b46e293018fce9f6c4ce8/artifacts
+end_time: 1729161039273
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: bd61588ae14b46e293018fce9f6c4ce8
+run_name: blushing-owl-490
+run_uuid: bd61588ae14b46e293018fce9f6c4ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729161032270
+status: 3
+tags: []
+user_id: HP
