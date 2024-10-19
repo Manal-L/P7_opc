@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/P7_opc/mlruns/207987867335832650/db26ac45f7f64208bd18e0fd642c9c86/artifacts
+end_time: 1729249927499
+entry_point_name: ''
+experiment_id: '207987867335832650'
+lifecycle_stage: active
+run_id: db26ac45f7f64208bd18e0fd642c9c86
+run_name: angry-finch-35
+run_uuid: db26ac45f7f64208bd18e0fd642c9c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729249921970
+status: 3
+tags: []
+user_id: HP
