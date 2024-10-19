@@ -1,4 +1,4 @@
-# streamlit_app.py
+# cd api
 
 #sur le terminale 2: streamlit run streamlit_app.py
 #si ConnectionError alors Streamlit ne parvient pas à se connecter à API FastAPI => FastAPI n'est pas en cours d'exécution sur le terminale1, il faut l'exécuter

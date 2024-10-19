@@ -5,6 +5,7 @@ df_clean.csv
 df_sample.csv
 application_train.csv
 data_test.csv
+df_test.csv
 
 # Ignorer le répertoire virtuel
 venv/

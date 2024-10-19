@@ -1,3 +1,4 @@
+
 # fastapi_app.py avec le framework FastAPI qui s'éxécute avec le serveur Uvicorn 
 
 #1- sur le termile1:  uvicorn fastapi_app:app --reload 
